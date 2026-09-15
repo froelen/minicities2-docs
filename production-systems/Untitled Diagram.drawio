@@ -1,0 +1,152 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="PUJqYVEcNqjwU_Uc8kF3">
+    <mxGraphModel dx="1554" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="560" width="640" x="94" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="600" x="114" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-30" edge="1" parent="1" source="LE56lxmc1Z3E9hd_8ZVf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LE56lxmc1Z3E9hd_8ZVf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" value="Large Ore Mine" vertex="1">
+          <mxGeometry height="80" width="40" x="114" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="214" y="300" />
+              <mxPoint x="214" y="310" />
+              <mxPoint x="124" y="310" />
+            </Array>
+            <mxPoint x="204" y="300" as="sourcePoint" />
+            <mxPoint x="124" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Cement Factory" vertex="1">
+          <mxGeometry height="80" width="120" x="174" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-29" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="270" as="sourcePoint" />
+            <mxPoint x="294" y="270.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Small W.¹ (1)" vertex="1">
+          <mxGeometry height="40" width="40" x="314" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-19" edge="1" parent="1" source="LE56lxmc1Z3E9hd_8ZVf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LE56lxmc1Z3E9hd_8ZVf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364.03" y="270" />
+              <mxPoint x="364.03" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Sand Plant (1)" vertex="1">
+          <mxGeometry height="80" width="40" x="374" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-28" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434" y="250" as="sourcePoint" />
+            <mxPoint x="414.0000000000001" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Large Stone Mine (1)" vertex="1">
+          <mxGeometry height="120" width="120" x="434" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-20" edge="1" parent="1" source="LE56lxmc1Z3E9hd_8ZVf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="LE56lxmc1Z3E9hd_8ZVf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="Sand Plant (2)" vertex="1">
+          <mxGeometry height="80" width="40" x="314" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364" y="390" />
+              <mxPoint x="364" y="390" />
+            </Array>
+            <mxPoint x="374" y="390" as="sourcePoint" />
+            <mxPoint x="354" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Large Stone Mine (2)" vertex="1">
+          <mxGeometry height="120" width="120" x="374" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-23" edge="1" parent="1" source="LE56lxmc1Z3E9hd_8ZVf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.986;entryDx=0;entryDy=0;entryPerimeter=0;" target="LE56lxmc1Z3E9hd_8ZVf-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="330" />
+              <mxPoint x="254" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Large Stone Mine (3)" vertex="1">
+          <mxGeometry height="120" width="120" x="174" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Small W.¹ (2)" vertex="1">
+          <mxGeometry height="40" width="40" x="114" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Large Modern Warehouse" vertex="1">
+          <mxGeometry height="120" width="120" x="594" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-32" edge="1" parent="1" source="LE56lxmc1Z3E9hd_8ZVf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="144.01" y="330.01" />
+            </Array>
+            <mxPoint x="144" y="330.03999999999996" as="sourcePoint" />
+            <mxPoint x="594" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="214" y="519.71" />
+            </Array>
+            <mxPoint x="134" y="519.71" as="sourcePoint" />
+            <mxPoint x="214" y="519.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="134" y="559.71" as="sourcePoint" />
+            <mxPoint x="214" y="559.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;Intermediate resource transfer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="460" x="234" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;Final resource transfer&amp;nbsp;(cement)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="460" x="234" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:" vertex="1">
+          <mxGeometry height="40" width="80" x="134" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div align=&quot;left&quot;&gt;Warehouse&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="460" x="234" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Cement Production System&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="600" x="114" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-45" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Production of cement from nothing to mass storage&lt;/h1&gt;&lt;p&gt;Steps&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Stone is produced in &lt;i&gt;Large Stone Mines&lt;/i&gt; (&lt;i&gt;LSM&lt;/i&gt;) 1 and 2&lt;/li&gt;&lt;li&gt;When each is full (25), their contents are being sent to their respective &lt;i&gt;Sand Plants&lt;/i&gt; (&lt;i&gt;SP&lt;/i&gt;)&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Note that &lt;i&gt;SPs&lt;/i&gt; only have an I/O capacity of 20, which means there will be 5 stone left in the &lt;i&gt;LSMs&lt;/i&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;When each SP is full (20), their contents are being sent to &lt;i&gt;Small Warehouse&lt;/i&gt; 1&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Note that&amp;nbsp;&lt;i&gt;Small Warehouses&lt;/i&gt;&amp;nbsp;have a storage capacity of 25, which means the last&amp;nbsp;&lt;i&gt;SP&lt;/i&gt;&amp;nbsp;to send its contents will be left with 15 sand&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;At the same time,&amp;nbsp;&lt;i&gt;Large Ore Mine&lt;/i&gt;&amp;nbsp;and&amp;nbsp;&lt;i&gt;LSM&lt;/i&gt;&amp;nbsp;3 already sent their contents to the &lt;i&gt;Cement Factory&lt;/i&gt;.&amp;nbsp;&lt;i&gt;Small Warehouse&lt;/i&gt;&amp;nbsp;1 does so whenever it&#39;s full&lt;/li&gt;&lt;li&gt;When the Cement Factory is full, it sends its contents to&amp;nbsp;&lt;i&gt;Small Warehouse&lt;/i&gt;&amp;nbsp;2 to make space for next production cycle immediately&lt;/li&gt;&lt;li&gt;&amp;nbsp;&amp;nbsp;&lt;i&gt;Small Warehouse&lt;/i&gt;&amp;nbsp;2 Sends its content to the further &lt;i&gt;Large Modern Warehouse&lt;/i&gt; where cement produced across all production systems is centralized&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="310" width="600" x="114" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="froelen" vertex="1">
+          <mxGeometry height="30" width="60" x="94" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2026-09-15" vertex="1">
+          <mxGeometry height="30" width="70" x="664" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LE56lxmc1Z3E9hd_8ZVf-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Mini Cities 2 (Roblox)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="126" x="351" y="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
